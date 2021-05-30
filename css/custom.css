@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+}
+
+.screen {
+    display: none;
+    align-self: center;
+    width: 700px;
+    margin-bottom: 10px;
+}
+
+#config-text {
+    width: 660px;
+    height: 120px;
+}
+
+#query-text {
+    width: 660px;
+}
+
+pre {
+    white-space: pre-wrap; 
+}
