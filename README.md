@@ -1,5 +1,3 @@
-# SMART and CDS Hooks Demo Applications (DevDays Tutorial)
-
 ## Author
 
 Nikolai Schwertner
